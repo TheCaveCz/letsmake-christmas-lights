@@ -13,3 +13,5 @@
 ![Finished box](6.jpg)
 
 ![Completed!](7.jpg)
+
+![Completed!](8.jpg)
