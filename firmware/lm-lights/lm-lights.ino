@@ -24,3 +24,6 @@
 // How long (milliseconds) will autoswitch keep one mode
 #define MODE_AUTOSWITCH_TIME 5000UL
 
+// Set to 1 to get fps through serial
+#define REPORT_FPS 1
+
